@@ -33,6 +33,9 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
 
+    #app{
+        overflow: hidden;
+    }
     body {
         font-size: 16px;
         font-family: 'Noto Sans KR', sans-serif;
